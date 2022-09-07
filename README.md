@@ -6,3 +6,6 @@ tool that converts dhcpd leases file into readable html to serve with a webserve
 qmake
 make
 ```
+
+# How does it look look?
+![Screenshot](/screenshot.png)
